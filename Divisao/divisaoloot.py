@@ -22,8 +22,4 @@ print('MS gastou {}, então recebe {}'.format(gastoms, profit / 4 + gastoms))
 print('EK gastou {}, então recebe {}'.format(gastoek, profit / 4 + gastoek))
 print('ED gastou {}, então recebe {}'.format(gastoed, profit / 4 + gastoed))
 print('RP gastou {}, então recebe {}'.format(gastorp, profit / 4 + gastorp))
-if gastoms > 100:
-    print('Ms gastao do kraio, sai da minha pt')
-else:
-    print('MS economico Xd')
 print('Fim, obrigado por me usar {}!')
